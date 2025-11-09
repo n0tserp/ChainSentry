@@ -44,6 +44,3 @@ Fork and PR! Ideas: Multi-chain support, real-time webhooks, GUI via Tkinter.
 
 ## License
 MIT License - feel free to use and build on this.
-
-## Demo
-[Add a screenshot or video here once you test it! E.g., upload to GitHub or YouTube.]
