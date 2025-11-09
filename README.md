@@ -43,4 +43,4 @@ Large transfer detected: 5.0 ETH at 2023-01-01 12:00:00
 Fork and PR! Ideas: Multi-chain support, real-time webhooks, GUI via Tkinter.
 
 ## License
-MIT License - feel free to use and build on this.
+MIT License - feel free to use and build on this. n0tserp
