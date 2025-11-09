@@ -1,0 +1,10 @@
+# Python & Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# macOS junk
+.DS_Store
